@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.7
+
 from flask import Flask, Blueprint
 from flask_restplus import Api
 from werkzeug.middleware.proxy_fix import ProxyFix

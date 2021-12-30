@@ -1,3 +1,5 @@
+#!/usr/bin/env python3.7
+
 from app import app
 from os import environ
 
